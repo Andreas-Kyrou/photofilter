@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\kirou\onedrive\desktop\spoudes\c++\ergasia\2stassg_3160211_3160213\ergasia02\ergasia01\main.cpp(47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\kirou\onedrive\desktop\spoudes\c++\ergasia\2stassg_3160211_3160213\ergasia02\ergasia01\main.cpp(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Image.cpp
+  FilterLinear.cpp
+  FilterGamma.cpp
+  Generating Code...
+  Ergasia01.vcxproj -> C:\Users\kirou\OneDrive\Desktop\SPOUDES\C++\Ergasia\2stASSG_3160211_3160213\Ergasia02\Debug\filter.exe
+  Ergasia01.vcxproj -> C:\Users\kirou\OneDrive\Desktop\SPOUDES\C++\Ergasia\2stASSG_3160211_3160213\Ergasia02\Debug\filter.pdb (Partial PDB)
